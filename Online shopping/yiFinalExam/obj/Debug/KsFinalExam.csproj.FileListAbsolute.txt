@@ -1,0 +1,13 @@
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\bin\Debug\yiFinalExam.exe.config
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\bin\Debug\yiFinalExam.exe
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\bin\Debug\yiFinalExam.pdb
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\obj\Debug\KsFinalExam.csprojAssemblyReference.cache
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\obj\Debug\MainWindow.baml
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\obj\Debug\MainWindow.g.cs
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\obj\Debug\App.g.cs
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\obj\Debug\yiFinalExam_MarkupCompile.cache
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\obj\Debug\yiFinalExam.g.resources
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\obj\Debug\yiFinalExam.Properties.Resources.resources
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\obj\Debug\KsFinalExam.csproj.GenerateResource.cache
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\obj\Debug\yiFinalExam.exe
+C:\Users\khushi\Desktop\KsFinalExam\yiFinalExam\obj\Debug\yiFinalExam.pdb
